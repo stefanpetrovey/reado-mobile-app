@@ -1,7 +1,4 @@
-# Мобилни информациски системи | Домашна 2
-
-Бојан Стефановски 214005
-Стефан Петров 213288
+# Мобилни информациски системи
 
 ReadoBooks App
 
@@ -28,11 +25,6 @@ Expo CLI
 A mobile device or an emulator (Android/iOS)
 
 Steps:
-
-Clone the repository:
-
-git clone https://github.com/bojanstefanovski214005/Domasna2_MIS_214005_213288.git
-cd Domasna2_MIS_214005_213288
 
 Install dependencies:
 
