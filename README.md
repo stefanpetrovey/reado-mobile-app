@@ -27,5 +27,3 @@ A mobile device or an emulator (Android/iOS)
 ![406669108-d1ab0599-c546-4574-ab70-2b7916dda892](https://github.com/user-attachments/assets/fcbc4fe3-9d5b-4ac7-b20c-804fcddbd0d1)
 ![406669110-c6d41733-2502-4edb-8d1e-6df4c8a5891c](https://github.com/user-attachments/assets/d4ab8bb5-c6d4-4abe-ac33-c5e9661523aa)
 ![406669111-14374b54-4e53-4d1f-8fe3-e6096a562e34](https://github.com/user-attachments/assets/2e24e45b-13e8-4131-a655-aa0bdf576aeb)
-
-Here you can find the 
