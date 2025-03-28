@@ -1,6 +1,6 @@
 **ReadoBooks App**
 
-Welcome to ReadoBooks, a mobile application built using React Native and Expo, designed to help users explore and manage their favorite books effortlessly.
+Welcome to ReadoBooks, a mobile application built using **React Native** and **Expo**, designed to help users explore and manage their favorite books effortlessly.
 
 Features
 
